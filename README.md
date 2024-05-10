@@ -1,29 +1,27 @@
-### Hi! I'm Nishita 👋
-a data engineer/analyst with a passion for wrangling numbers and whipping up delicious treats 🧁.
 
-Hi there! I'm [Your Name], a data engineer with a passion for building and maintaining robust data pipelines (::pipeline::). I thrive on transforming raw data into valuable insights that drive informed decision-making 📈.
+Hi there 👋! I'm Nishita, a data engineer/analyst with a passion for wrangling numbers and whipping up delicious treats 🧁. I thrive on transforming raw data into valuable insights that drive informed decision-making 📈.
 
-**Technical Skills (::wrench::):**
+**Technical Skills 🔧:**
 
-* Programming Languages: Python 🐍, SQL (::database::)
+* Programming Languages: Python 🐍, SQL 🗂️
 * Cloud Platforms: AWS, GCP ☁️
 * Data Warehousing & Big Data: Apache Spark ✨, Hadoop 🐘
 * Data Pipelines: Airflow 🎈, Luigi 🚦
 * Version Control Systems: Git 🔱
 
 
-**What I Enjoy (::heart::):**
+**What I Enjoy <3:**
 
-* Designing and implementing efficient data pipelines (::construction::)
-* Working with large and complex datasets (::mag_right::)
-* Automating tedious data tasks (::robot::)
-* Collaborating with cross-functional teams (::handshake::)
-* Learning new technologies and staying up-to-date (::books::)
-* Baking delicious treats (::cookie::)
-* Eliminating enemies in Call of Duty (::gun::) 
+* Designing and implementing efficient data pipelines 🚧
+* Working with large and complex datasets 🔍
+* Automating tedious data tasks 🤖
+* Collaborating with cross-functional teams 🤝
+* Learning new technologies and staying up-to-date 📚
+* Baking delicious treats 🍪
+* Eliminating enemies in Call of Duty 🔫
 
-**Connect with Me (::link::):**
+**Connect with Me 🔗:**
 
-* (Optional) Link to your professional profiles using markdown syntax.
+
 
 
