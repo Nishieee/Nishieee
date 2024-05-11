@@ -1,12 +1,11 @@
 
-Hi there 👋! I'm Nishita, a data engineer/analyst with a passion for wrangling numbers and whipping up delicious treats 🧁. I thrive on transforming raw data into valuable insights that drive informed decision-making 📈.
+Hi there 👋! I'm Nishita, a Graduate Student at Northeastern University with a passion for wrangling numbers and whipping up delicious treats 🧁. I thrive on transforming raw data into valuable insights that drive informed decision-making 📈.
 
 **Technical Skills 🔧:**
 
 * Programming Languages: Python 🐍, SQL 🗂️
 * Cloud Platforms: AWS, GCP ☁️
 * Data Warehousing & Big Data: Apache Spark ✨, Hadoop 🐘
-* Data Pipelines: Airflow 🎈, Luigi 🚦
 * Version Control Systems: Git 🔱
 
 
