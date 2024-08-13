@@ -11,7 +11,7 @@ Hi there 👋! I'm Nishita, a Graduate Student at Northeastern University with a
 * Baking delicious treats 🍪
 * Eliminating enemies in Call of Duty 🔫
 
-**Connect with Me 🔗:**
+**Connect with Me 🔗:** matlaninishi@gmail.com
 
 
 
