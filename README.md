@@ -12,6 +12,7 @@ Hi there 👋! I'm Nishita, a Graduate Student at Northeastern University with a
 * Eliminating enemies in Call of Duty 🔫
 
 **Connect with Me 🔗:** matlaninishi@gmail.com
+
 **Checkout my Portfolio ✨:** https://nishieeee.notion.site/hey-there
 
 
