@@ -13,7 +13,7 @@ Hi there 👋! I'm Nishita, a Graduate Student at Northeastern University with a
 
 **Connect with Me 🔗:** matlaninishi@gmail.com
 
-**Checkout my Portfolio ✨:** https://nishieeee.notion.site/hey-there
+**Checkout my Portfolio ✨:** www.nishimatlani.xyz
 
 
 
