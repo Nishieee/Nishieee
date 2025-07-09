@@ -11,5 +11,6 @@ Hi there 👋! I'm Nishita, a Graduate Student at Northeastern University with a
 * Eliminating enemies in Call of Duty 🔫  
 
 **Connect with Me 🔗:** matlaninishi@gmail.com  
-**LinkedIn <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="16" style="vertical-align:middle;"></a> :** https://www.linkedin.com/in/nishitamatlani
+**LinkedIn <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="16" style="vertical-align:middle;">:** https://www.linkedin.com/in/nishitamatlani  
 **Checkout my Portfolio ✨:** www.nishimatlani.xyz
+
