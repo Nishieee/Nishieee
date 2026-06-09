@@ -1,26 +1,16 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Nishieee/Nishieee/main/cat.svg" alt="cute pink cat" width="180"/>
+  <img src="https://raw.githubusercontent.com/Nishieee/Nishieee/main/cat.svg" alt="cute pink cat" width="300"/>
 </p>
 
-<h2 align="center">hi, i'm nishita 🧁</h2>
-
-<p align="center">
-  <em>data engineer · open source @ apache + opensearch · baker · gamer</em>
-</p>
-
-<p align="center">
-  <a href="https://www.nishimatlani.xyz">🌐 portfolio</a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/nishitamatlani">💼 linkedin</a> &nbsp;·&nbsp;
-  <a href="mailto:matlaninishi@gmail.com">📧 email</a>
-</p>
-
-<br/>
-
-### ✨ &nbsp; about me
-
-i build data pipelines by day, bake cookies by night, and occasionally rage in call of duty.
-
-<br/>
+Hi there 👋! I'm Nishita, a Graduate Student at Northeastern University with a passion for wrangling numbers and whipping up delicious treats 🧁. I thrive on transforming raw data into valuable insights that drive informed decision-making 📈.
+**What I Enjoy <3:**
+* Designing and implementing efficient data pipelines 🚧  
+* Working with large and complex datasets 🔍  
+* Automating tedious data tasks 🤖  
+* Collaborating with cross-functional teams 🤝  
+* Learning new technologies and staying up-to-date 📚  
+* Baking delicious treats 🍪  
+* Eliminating enemies in Call of Duty 🔫  
 
 ### 🌱 &nbsp; open source
 
@@ -53,3 +43,8 @@ contributing to **apache** & **opensearch** ↓
 <p align="center">
   <em>"build pipelines like you bake cookies. clean, consistent, made with love." 🍪</em>
 </p>
+
+**Connect with Me 🔗:** matlaninishi@gmail.com  
+**LinkedIn <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="16" style="vertical-align:middle;">:** https://www.linkedin.com/in/nishitamatlani  
+**Checkout my Portfolio ✨:** [www.nishimatlani.xyz](https://www.nishimatlani.xyz)  
+
