@@ -1,3 +1,8 @@
+<!-- 🐈 walking cat animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Nishieee/Nishieee/main/cat.svg" alt="cute cat walking" width="100%"/>
+</p>
+
 <h2 align="center">hi, i'm nishita 🧁</h2>
 
 <p align="center">
